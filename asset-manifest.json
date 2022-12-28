@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stocktickerdemo/static/css/main.2e564eda.css",
-    "main.js": "/stocktickerdemo/static/js/main.76679506.js",
+    "main.css": "/stocktickerdemo/static/css/main.cdd8a4e0.css",
+    "main.js": "/stocktickerdemo/static/js/main.ef5f2b48.js",
     "static/js/787.a3f07dd4.chunk.js": "/stocktickerdemo/static/js/787.a3f07dd4.chunk.js",
     "static/media/logo.svg": "/stocktickerdemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stocktickerdemo/index.html",
-    "main.2e564eda.css.map": "/stocktickerdemo/static/css/main.2e564eda.css.map",
-    "main.76679506.js.map": "/stocktickerdemo/static/js/main.76679506.js.map",
+    "main.cdd8a4e0.css.map": "/stocktickerdemo/static/css/main.cdd8a4e0.css.map",
+    "main.ef5f2b48.js.map": "/stocktickerdemo/static/js/main.ef5f2b48.js.map",
     "787.a3f07dd4.chunk.js.map": "/stocktickerdemo/static/js/787.a3f07dd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e564eda.css",
-    "static/js/main.76679506.js"
+    "static/css/main.cdd8a4e0.css",
+    "static/js/main.ef5f2b48.js"
   ]
 }
