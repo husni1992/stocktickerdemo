@@ -1,13 +1,4 @@
-.Container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  width: 800px;
-  height: 300px;
-}
-
-.Stock {
+.container {
   border: 1px solid #2980e2;
   height: 100px;
   width: 120px;
@@ -20,9 +11,13 @@
 }
 
 .text-small {
+  font-size: 12px;
+}
+
+.text-medium {
   font-size: 14px;
 }
 
-.Value {
-  color: red;
+.text-large {
+  font-size: 18px;
 }

@@ -1,5 +1,5 @@
 import { Stock } from "./Stock";
-import "./StockContainer.css";
+import styles from "./StockContainer.module.css";
 
 type StockType = {
   id: number;
@@ -9,7 +9,7 @@ type StockType = {
 
 export function StockContainer({ stocks }: { stocks: StockType[] }) {
   return (
-    <div className="Container">
+    <div className={styles.container}>
       {stocks.map((item) => (
         <Stock key={item.id} name={item.name} value={item.value} />
       ))}

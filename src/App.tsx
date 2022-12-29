@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { StockContainer } from "./components/StockContainer";
+import { StockContainer } from "./Stock/StockContainer";
 import { useEffect, useState } from "react";
 import { getStockPrices } from "./service";
 
